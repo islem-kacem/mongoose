@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.3.1",
+    "node.js": "^0.0.1-security",
+    "validator": "^13.9.0"
+  }
+}
